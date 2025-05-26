@@ -25,8 +25,8 @@ I'm a software developer based in St. John’s, Newfoundland, currently completi
 📫 **Let’s connect!**
 
 - GitHub: [github.com/WalidJer](https://github.com/WalidJer)  
-- LinkedIn: [linkedin.com/in/walidjerjawi](https://linkedin.com/in/walidjerjawi)  
-- Email: wj2222@mun.ca  
+- Email: wj2222@mun.ca
+       : walid.jerjawi@keyin.com 
 
 ---
 
